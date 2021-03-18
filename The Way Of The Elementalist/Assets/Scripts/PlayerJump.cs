@@ -1,22 +1,5 @@
-﻿Skip to content
- 
-Search…
-All gists
-Back to GitHub
-Sign in
-Sign up
-Instantly share code, notes, and snippets.
+﻿
 
-@CodingDino
-CodingDino/PlayerJump.cs
-Created 12 months ago
-0
-0
- Code
- Revisions 1
-<script src="https://gist.github.com/CodingDino/0eeb188bf3515b1d252872ebb535d606.js"></script>
-A Unity script allowing a character to jump when the Jump() function is called, for example from an on - screen control or another script.
-PlayerJump.cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -91,16 +74,3 @@ public class PlayerJump : MonoBehaviour
         }
     }
 }
-to join this conversation on GitHub. Already have an account? Sign in to comment
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About

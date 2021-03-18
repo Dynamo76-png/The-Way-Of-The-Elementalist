@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: ffd6f128651eafe4ca5c919a87b754ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5882810477648912402
+    second: Elementalist - Female - Run Left_0
+  - first:
+      213: 6853243253820963768
+    second: Elementalist - Female - Run Left_1
+  - first:
+      213: 474657915141065082
+    second: Elementalist - Female - Run Left_2
+  - first:
+      213: 7654350252840146088
+    second: Elementalist - Female - Run Left_3
+  - first:
+      213: -5684416484170145131
+    second: Elementalist - Female - Run Left_4
+  - first:
+      213: -1439390715450364447
+    second: Elementalist - Female - Run Left_5
+  - first:
+      213: 1168839981951593759
+    second: Elementalist - Female - Run Left_6
+  - first:
+      213: -909120900316621308
+    second: Elementalist - Female - Run Left_7
+  - first:
+      213: -8268489858464593575
+    second: Elementalist - Female - Run Left_8
+  - first:
+      213: -1402774097454056950
+    second: Elementalist - Female - Run Left_9
+  - first:
+      213: 4739986940880359018
+    second: Elementalist - Female - Run Left_10
+  - first:
+      213: -5456673814965812073
+    second: Elementalist - Female - Run Left_0
+  - first:
+      213: 8872913950545061610
+    second: Elementalist - Female - Run Left_1
+  - first:
+      213: -6207499527220496406
+    second: Elementalist - Female - Run Left_2
+  - first:
+      213: 1883957381424708356
+    second: Elementalist - Female - Run Left_3
+  - first:
+      213: -9125057362632366606
+    second: Elementalist - Female - Run Left_4
+  - first:
+      213: 1982872402025305548
+    second: Elementalist - Female - Run Left_5
+  - first:
+      213: 5654283966002384965
+    second: Elementalist - Female - Run Left_6
+  - first:
+      213: -7484493561506213472
+    second: Elementalist - Female - Run Left_7
+  - first:
+      213: -3653075903784488334
+    second: Elementalist - Female - Run Left_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elementalist - Female - Run Left_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 99
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79489c373100644b0800000000000000
+      internalID: -5456673814965812073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist - Female - Run Left_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 98
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6a8d03a3ce22b70800000000000000
+      internalID: 8872913950545061610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist - Female - Run Left_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 97
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7fd9891188ad9a0800000000000000
+      internalID: -6207499527220496406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist - Female - Run Left_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b7bcbb149252a10800000000000000
+      internalID: 1883957381424708356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist - Female - Run Left_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 65
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f52c31eca84d5180800000000000000
+      internalID: -9125057362632366606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist - Female - Run Left_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 66
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5d4a5a1f3948b10800000000000000
+      internalID: 1982872402025305548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist - Female - Run Left_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 35
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54052c43f4d087e40800000000000000
+      internalID: 5654283966002384965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist - Female - Run Left_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a159b6a2ccb12890800000000000000
+      internalID: -7484493561506213472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist - Female - Run Left_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 33
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272f26102daad4dc0800000000000000
+      internalID: -3653075903784488334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist - Female - Run Left_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ab12df368588ce0800000000000000
+      internalID: -1402774097454056950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementalist - Female - Run Left_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e0a2b5201d7c140800000000000000
+      internalID: 4739986940880359018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
