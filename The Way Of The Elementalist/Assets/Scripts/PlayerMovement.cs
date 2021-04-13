@@ -24,6 +24,19 @@ public class PlayerMovement : MonoBehaviour
         ourAnimator.SetFloat("SpeedH", currentSpeedH);
         ourAnimator.SetFloat("SpeedV", currentSpeedV);
 
+        // Check if the player is pressing a key
+        if (Input.GetKey(KeyCode.A))
+        {
+            MoveLeft();
+        }
+        if (Input.GetKey(KeyCode.D))
+        {
+            MoveRight();
+        }
+        if (Input.GetKey(KeyCode.W))
+        {
+            Jump();
+        }
     }
 
     public void Jump()
@@ -37,6 +50,8 @@ public class PlayerMovement : MonoBehaviour
 
         ourRigidbody.AddForce(Vector2.right * forceStrengh);
     }
+
+
     public void MoveLeft()
     {
         Rigidbody2D ourRigidbody = GetComponent<Rigidbody2D>();
