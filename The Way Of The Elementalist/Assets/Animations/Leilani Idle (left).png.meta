@@ -1,55 +1,25 @@
 fileFormatVersion: 2
-guid: 2762472123c133d42aa1701cc08c8b5d
+guid: 0103e6ec9aea4464b9926147eba79289
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3589168721983372454
-    second: Leilani Attack_0
+      213: -6943078920223201391
+    second: Leilani Idle (left)_0
   - first:
-      213: -7615246494886310033
-    second: Leilani Attack_1
+      213: 4476401910182406575
+    second: Leilani Idle (left)_1
   - first:
-      213: 8709245586931695490
-    second: Leilani Attack_2
+      213: -4281346773877526899
+    second: Leilani Idle (left)_2
   - first:
-      213: 2457798604935756293
-    second: Leilani Attack_3
+      213: 230162274594085868
+    second: Leilani Idle (left)_3
   - first:
-      213: 4123851514938523755
-    second: Leilani Attack_4
+      213: -5044598631491701600
+    second: Leilani Idle (left)_4
   - first:
-      213: 3565089080652932100
-    second: Leilani Attack_5
-  - first:
-      213: 1084268606795900678
-    second: Leilani Attack_6
-  - first:
-      213: 1649275685707717139
-    second: Leilani Attack_7
-  - first:
-      213: -4930254201480731938
-    second: Leilani Attack_0
-  - first:
-      213: -3286800598012913842
-    second: Leilani Attack_1
-  - first:
-      213: -7563872592380575037
-    second: Leilani Attack_2
-  - first:
-      213: -1101549115119040395
-    second: Leilani Attack_3
-  - first:
-      213: -2345241063574014101
-    second: Leilani Attack_4
-  - first:
-      213: -329742655271110037
-    second: Leilani Attack_5
-  - first:
-      213: 7043483834196467184
-    second: Leilani Attack_6
-  - first:
-      213: 4095121847240159335
-    second: Leilani Attack_7
+      213: -6089815930932504280
+    second: Leilani Idle (left)_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -147,169 +117,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Leilani Attack_0
+      name: Leilani Idle (left)_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 67
-        width: 15
-        height: 27
-      alignment: 9
-      pivot: {x: 0.54721844, y: 0.3740839}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed22d54ece7349bb0800000000000000
-      internalID: -4930254201480731938
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Leilani Attack_1
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 67
-        width: 20
-        height: 28
-      alignment: 9
-      pivot: {x: 0.45750314, y: 0.37858063}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4716e33540f262d0800000000000000
-      internalID: -3286800598012913842
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Leilani Attack_2
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 67
-        width: 25
-        height: 27
-      alignment: 9
-      pivot: {x: 0.18269135, y: 0.32686532}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3c2c7dcc3f9b70790800000000000000
-      internalID: -7563872592380575037
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Leilani Attack_3
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 35
-        width: 25
-        height: 19
-      alignment: 9
-      pivot: {x: 0.21668881, y: 0.5074555}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5780fa28ae286b0f0800000000000000
-      internalID: -1101549115119040395
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Leilani Attack_4
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 35
-        width: 25
+        x: 14
+        y: 64
+        width: 10
         height: 18
-      alignment: 9
-      pivot: {x: 0.1940236, y: 0.5078695}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b67f205ada7047fd0800000000000000
-      internalID: -2345241063574014101
+      spriteID: 197e790128a35af90800000000000000
+      internalID: -6943078920223201391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Leilani Attack_5
+      name: Leilani Idle (left)_1
       rect:
         serializedVersion: 2
-        x: 69
-        y: 35
-        width: 24
+        x: 45
+        y: 64
+        width: 10
         height: 18
-      alignment: 9
-      pivot: {x: 0.19898193, y: 0.5314789}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6a75455dc48c6bf0800000000000000
-      internalID: -329742655271110037
+      spriteID: fa96d4002df5f1e30800000000000000
+      internalID: 4476401910182406575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Leilani Attack_6
+      name: Leilani Idle (left)_2
       rect:
         serializedVersion: 2
-        x: 5
-        y: 3
-        width: 24
+        x: 14
+        y: 32
+        width: 10
         height: 18
-      alignment: 9
-      pivot: {x: 0.20488434, y: 0.56295824}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fd9c7eaa3b7fb160800000000000000
-      internalID: 7043483834196467184
+      spriteID: d8ee3ceeac99594c0800000000000000
+      internalID: -4281346773877526899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Leilani Attack_7
+      name: Leilani Idle (left)_3
       rect:
         serializedVersion: 2
-        x: 37
-        y: 3
-        width: 15
-        height: 18
-      alignment: 9
-      pivot: {x: 0.3016818, y: 0.55508846}
+        x: 45
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 760f0b88f9bc4d830800000000000000
-      internalID: 4095121847240159335
+      spriteID: ceb50e98e53b13300800000000000000
+      internalID: 230162274594085868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leilani Idle (left)_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4f387a54cfdf9b0800000000000000
+      internalID: -5044598631491701600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leilani Idle (left)_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829d0411da0ac7ba0800000000000000
+      internalID: -6089815930932504280
       vertices: []
       indices: 
       edges: []
