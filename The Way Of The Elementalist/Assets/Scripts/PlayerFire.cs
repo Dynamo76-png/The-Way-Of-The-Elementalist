@@ -27,6 +27,15 @@ public class PlayerFire : MonoBehaviour
         // Get the rigidbody from our cloned projectile and store it
         projectileRigidbody = clonedProjectile.GetComponent<Rigidbody2D>();
         // Set the velocity on the rigidbody to the editor setting
+        SpriteRenderer ourSpriter = GetComponent<SpriteRenderer>();
+        if (ourSpriter.flipX)
+        {
+            projectileVelocity.x = -1.0f * Mathf.Abs(projectileVelocity.x);
+        }
+        else
+        {
+            projectileVelocity.x = Mathf.Abs(projectileVelocity.x);
+        }
         projectileRigidbody.velocity = projectileVelocity;
 
         // Play firing animation

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7175221931686675886}
   - component: {fileID: 2648107764042648743}
   - component: {fileID: 8043969740531895065}
-  - component: {fileID: -5011046441397685443}
+  - component: {fileID: 1088730082595148709}
   m_Layer: 0
   m_Name: Slash
   m_TagString: Untagged
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 68cb9731344080544ac6ca4c3d205d89, type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -82,7 +82,7 @@ SpriteRenderer:
   m_Size: {x: 0.32, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!61 &7175221931686675886
@@ -144,8 +144,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ea168040478273409b1f71a2689035f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  goalTime: 0.4
---- !u!114 &-5011046441397685443
+  goalTime: 0.2
+--- !u!114 &1088730082595148709
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -154,6 +154,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 609789538955743968}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f8a44c224c02a274c9bdac626aa71b53, type: 3}
+  m_Script: {fileID: 11500000, guid: dca71306effcd394fb39c7801694315f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  AttackPower: 999

@@ -21,7 +21,12 @@ public class PlayerMovement : MonoBehaviour
         Animator ourAnimator = GetComponent<Animator>();
 
         // Tell our animator what the speeds are
-        ourAnimator.SetFloat("SpeedH", currentSpeedH);
+        ourAnimator.SetFloat("SpeedH", Mathf.Abs(currentSpeedH));
+        if (currentSpeedH != 0)
+        {
+            SpriteRenderer ourSpriter = GetComponent<SpriteRenderer>();
+            ourSpriter.flipX = currentSpeedH < 0;
+        }    
         ourAnimator.SetFloat("SpeedV", currentSpeedV);
 
         // Check if the player is pressing a key

@@ -1,18 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class PlayerHealth : MonoBehaviour
+public class EnemyLife: MonoBehaviour
 {
-    // This will be the starting health for the player
+    // This will be the starting health for the enemy
     // Public variable = shown in Unity editor and accessible from other scripts
     // int = whole numbers
     public int startingHealth;
 
-    public string gameOverScene;
-
-    // This will be the player's current health
+    // This will be the enemy's current health
     // Private variable = NOT shown in Unity or accessible from other scripts
     // int = whole numbers
     private int currentHealth;
@@ -32,7 +29,7 @@ public class PlayerHealth : MonoBehaviour
     // It will only be called manually by our own code
     // It must be marked "public" so our other scripts can access it
     // This function will change the health value of the player
-    public void ChangeHealth(int changeAmount)
+    public void ChangeEnemyHealth(int changeAmount)
     {
         // Take our current health, add the change amount, and store the result back in the current health variable
         currentHealth = currentHealth + changeAmount;
@@ -46,7 +43,7 @@ public class PlayerHealth : MonoBehaviour
         // If our health has dropped to 0, that means our player should die.
         if (currentHealth == 0)
         {
-            // We call the Kill function to kill the player
+            // We call the Kill function to kill the enemy
             Kill();
         }
     }
@@ -59,11 +56,7 @@ public class PlayerHealth : MonoBehaviour
     {
         // This will destroy the gameObject that this script is attached to
         Destroy(gameObject);
-
-        SceneManager.LoadScene(gameOverScene);
     }
-
-
 
     // This simple function will let other scripts ask this one what the current health is
     // the function RETURNS an integer, meaning it gives a number back to the code that called it
